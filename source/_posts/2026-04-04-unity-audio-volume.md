@@ -9,4 +9,6 @@ typora-copy-images-to: ../img/miscs/
 
 选中AudioClip资源，勾选 `Force To Mono+Normalize` 。
 
+设置AudioSource对应GO，设置 `Spatial Blend` 为 0 （2D）。
+
 这疑似和3D音效机制有关系，以后再研究。
