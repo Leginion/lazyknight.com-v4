@@ -37,3 +37,7 @@ typora-copy-images-to: ../img/miscs/
 尽管我们没有办法100%地保证所有的代码和对应的调用链100%正确，但这已经足够我们应对日常比较基础的生产的情况。
 
 如果你对AI编程还有点顾虑，或者对AI生成的内容质量有焦虑，不妨按照这个思路试试，以测试结果驱动AI开发，做一些复杂工具，或是建设一些核心模块。
+
+我的实验仓库：
+
+* [Lua Script Lab | Github](https://github.com/Leginion/lua-script-lab)
