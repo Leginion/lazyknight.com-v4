@@ -1,11 +1,14 @@
 ---
 title: Vibe Coding 体验记录和经验分享 / 测试驱动AI开发
 date: 2026-4-7 16:55:46 +0800
+updated: 2026-4-7 22:35:16 +0800
 tags: [note,vibe-coding]
 typora-root-url: ..
 typora-copy-images-to: ../img/miscs/
 # updated: _______________________________________ +0800
 ---
+
+## 原文
 
 最近几天用Vibe Coding高强度地进行游戏项目迭代的实验，得出了一些经验。
 
@@ -41,3 +44,11 @@ typora-copy-images-to: ../img/miscs/
 我的实验仓库：
 
 * [Lua Script Lab | Github](https://github.com/Leginion/lua-script-lab)
+
+## 更新
+
+刚发布这篇博客，就发现了已经将这套次时代工业化开发流程打包进一个工程的仓库。
+
+生产模式的革命比想象中来得迅猛得多。
+
+* [superpowers | Github](https://github.com/obra/superpowers)
